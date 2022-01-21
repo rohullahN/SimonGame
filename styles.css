@@ -3,6 +3,11 @@ text-align: center;
 background-color: azure;
 }
 
+.gameOver
+{
+    background-color: crimson;
+}
+
 .btn {
     margin: 25px;
     display: inline-block;
